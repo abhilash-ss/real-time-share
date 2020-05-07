@@ -10401,6 +10401,11 @@ to-regex@^3.0.1, to-regex@^3.0.2:
     regex-not "^1.0.2"
     safe-regex "^1.1.0"
 
+togetherjs@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/togetherjs/-/togetherjs-0.0.1.tgz#552ee45e3bbf3c2742ab7c749e078e62096e9fc9"
+  integrity sha1-VS7kXju/PCdCq3x0ngeOYglun8k=
+
 toidentifier@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/toidentifier/-/toidentifier-1.0.0.tgz#7e1be3470f1e77948bc43d94a3c8f4d7752ba553"
